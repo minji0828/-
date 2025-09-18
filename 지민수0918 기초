@@ -1,0 +1,27 @@
+package com.ohgiraffers.f_activity.mission.a_basic;
+
+import javax.sound.midi.SysexMessage;
+import java.util.Scanner;
+
+public class 기초 {
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+      int a = sc.nextInt();
+      int b = sc.nextInt();
+      int 더하기 = a + b;
+      int 빼기 = a - b;
+      int 나누기 = a / b;
+      double 실수나누기 = (double) a / b;
+      double 나머지  = a % b;
+      int 곱하기 = a * b;
+
+      System.out.println("더하기 결과 : " + 더하기);
+      System.out.println("빼기 결과 : " + 빼기);
+      System.out.println("정수 나누기 결과 : " + 나누기);
+      System.out.println("실수 나누기 결과 : " +  실수나누기);
+      System.out.println("실수 나누기의 나머지 결과 : " + 나머지);
+      System.out.println("곱하기 결과 : " + 곱하기);
+
+      sc.close();
+    }
+}
