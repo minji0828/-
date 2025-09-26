@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/01_java/Module02-control-flow-and-Method" />
+        <option name="gradleJvm" value="temurin-17" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/01_java/Module02-control-flow-and-Method" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/01_java/Module03-Object-oriented-programming" />
+        <option name="gradleJvm" value="temurin-17" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/01_java/Module03-Object-oriented-programming" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/01_java/Module05-Collection" />
+        <option name="gradleJvm" value="temurin-17" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/01_java/Module05-Collection" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/01_java/module01-java-basic" />
+        <option name="gradleJvm" value="temurin-17" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/01_java/module01-java-basic" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/01_java/module04-interface-generic" />
+        <option name="gradleJvm" value="temurin-17" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/01_java/module04-interface-generic" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/01_java/module06-exception_file-io" />
+        <option name="gradleJvm" value="temurin-17" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/01_java/module06-exception_file-io" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/01_java/sss" />
+        <option name="gradleJvm" value="temurin-17" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/01_java/sss" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/01_java/test_module" />
+        <option name="gradleJvm" value="temurin-17" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/01_java/test_module" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/mission" />
+        <option name="gradleHome" value="" />
+        <option name="gradleJvm" value="temurin-17" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/mission" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
